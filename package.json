@@ -1,0 +1,11 @@
+{
+  "name": "flashsale",
+  "version": "1.0.0",
+  "description": "Production-oriented e-commerce architecture project",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  }
+}
